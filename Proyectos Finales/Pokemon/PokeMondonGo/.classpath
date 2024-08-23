@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="simulador/" kind="src" path="PokeMondonGo/src/main/java"/>
+	<classpathentry kind="src" path="PokeMondonGo/src/main/java/simulador"/>
+	<classpathentry kind="output" path="PokeMondonGo/target/classes"/>
+</classpath>
